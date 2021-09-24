@@ -34,6 +34,11 @@
       "name": "erin",
       "email": "etruman2@gmail.com",
       "id": 7
+    },
+    {
+      "email": "waylon@ismycat.com",
+      "name": "Waylon B. Hayes",
+      "id": 8
     }
   ],
   "morningPages": [
@@ -47,90 +52,104 @@
       "date": "9/11/21"
     },
     {
-      "title": "hello",
+      "title": "Good day to you ",
       "userId": 7,
-      "morningPage": "bad",
-      "blurt": "nope",
-      "reframe": "idk",
-      "date": "Fri Sep 17 2021 09:58:52 GMT-0500 (Central Daylight Time)",
-      "id": 2
+      "morningPage": "How are you, old sport?",
+      "blurt": "vsdbfdsbfmbmnsdcndscbnsd cbn snc    vvvvvvvvvsdbfdsbfmbmnsdcndscbnsd cbn snc    vvvvvvvvvsdbfdsbfmbmnsdcndscbnsd cbn snc    vvvvvvvvvsdbfdsbfmbmnsdcndscbnsd cbn snc    vvvvvvvvvsdbfdsbfmbmnsdcndscbnsd cbn snc    vvvvvvvv",
+      "reframe": "cjdbcajbasjbdq",
+      "date": "09/23/2021",
+      "id": 6
+    },
+    {
+      "title": "CSS can be harder than it looks!",
+      "userId": 7,
+      "morningPage": "i hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area worksi hope this text area works",
+      "blurt": "<h2 className=\"title\">BLURTS</h2><h2 className=\"title\">BLURTS</h2><h2 className=\"title\">BLURTS</h2><h2 className=\"title\">BLURTS</h2><h2 className=\"title\">BLURTS</h2><h2 className=\"title\">BLURTS</h2><h2 className=\"title\">BLURTS</h2><h2 className=\"title\">BLURTS</h2><h2 className=\"title\">BLURTS</h2><h2 className=\"title\">BLURTS</h2><h2 className=\"title\">BLURTS</h2><h2 className=\"title\">BLURTS</h2><h2 className=\"title\">BLURTS</h2><h2 className=\"title\">BLURTS</h2><h2 className=\"title\">BLURTS</h2><h2 className=\"title\">BLURTS</h2><h2 className=\"title\">BLURTS</h2><h2 className=\"title\">BLURTS</h2><h2 className=\"title\">BLURTS</h2><h2 className=\"title\">BLURTS</h2><h2 className=\"title\">BLURTS</h2><h2 className=\"title\">BLURTS</h2><h2 className=\"title\">BLURTS</h2><h2 className=\"title\">BLURTS</h2><h2 className=\"title\">BLURTS</h2><h2 className=\"title\">BLURTS</h2><h2 className=\"title\">BLURTS</h2><h2 className=\"title\">BLURTS</h2><h2 className=\"title\">BLURTS</h2><h2 className=\"title\">BLURTS</h2><h2 className=\"title\">BLURTS</h2><h2 className=\"title\">BLURTS</h2><h2 className=\"title\">BLURTS</h2>",
+      "reframe": "",
+      "date": "09/23/2021",
+      "id": 7
+    },
+    {
+      "title": "testing auto focus",
+      "userId": 7,
+      "morningPage": "it worked!",
+      "blurt": "testing",
+      "reframe": "fbmabfmasbfmbq",
+      "date": "09/23/2021",
+      "id": 8
+    },
+    {
+      "title": ",mbcjqsb",
+      "userId": 7,
+      "morningPage": "smbx,mqsbcm,q",
+      "blurt": "  c c,wm cw,mec ",
+      "reframe": "d cmn dwc dq",
+      "date": "09/23/2021",
+      "id": 9
+    },
+    {
+      "title": "da,dnas,d",
+      "userId": 7,
+      "morningPage": ",nd,nd,as",
+      "blurt": "damndm,asndbvwdjb",
+      "reframe": "",
+      "date": "09/23/2021",
+      "id": 10
+    },
+    {
+      "title": "meow",
+      "userId": 8,
+      "morningPage": "meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow ",
+      "blurt": "MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW ",
+      "reframe": "CAT-astrphizing. get it?",
+      "date": "09/23/2021",
+      "id": 11
+    },
+    {
+      "title": "Meow",
+      "userId": 8,
+      "morningPage": "meow",
+      "blurt": "meow",
+      "reframe": "meow",
+      "date": "09/24/2021",
+      "id": 12
     }
   ],
   "thoughtDistortions": [
     {
-      "id": 1,
-      "distortionDetailId": 1,
-      "morningPageId": 1
-    },
-    {
-      "distortionDetailId": 1,
-      "morningPageId": 2,
+      "distortionDetailId": 7,
+      "morningPageId": 6,
       "id": 2
     },
     {
-      "distortionDetailId": 2,
-      "morningPageId": 2,
+      "distortionDetailId": 1,
+      "morningPageId": 8,
       "id": 3
     },
     {
-      "distortionDetailId": 10,
-      "morningPageId": 2,
+      "distortionDetailId": 2,
+      "morningPageId": 8,
       "id": 4
     },
     {
       "distortionDetailId": 1,
-      "morningPageId": 2,
+      "morningPageId": 9,
       "id": 5
     },
     {
       "distortionDetailId": 2,
-      "morningPageId": 2,
+      "morningPageId": 9,
       "id": 6
     },
     {
-      "distortionDetailId": 3,
-      "morningPageId": 2,
+      "distortionDetailId": 1,
+      "morningPageId": 11,
       "id": 7
     },
     {
-      "distortionDetailId": 12,
-      "morningPageId": 2,
-      "id": 8
-    },
-    {
-      "distortionDetailId": 11,
-      "morningPageId": 2,
-      "id": 9
-    },
-    {
-      "distortionDetailId": 5,
-      "morningPageId": 2,
-      "id": 10
-    },
-    {
-      "distortionDetailId": 13,
-      "morningPageId": 2,
-      "id": 11
-    },
-    {
-      "distortionDetailId": 11,
-      "morningPageId": 2,
-      "id": 12
-    },
-    {
-      "distortionDetailId": 12,
-      "morningPageId": 2,
-      "id": 13
-    },
-    {
-      "distortionDetailId": 13,
-      "morningPageId": 2,
-      "id": 14
-    },
-    {
       "distortionDetailId": 1,
-      "morningPageId": 2,
-      "id": 15
+      "morningPageId": 12,
+      "id": 8
     }
   ],
   "distortionDetails": [
@@ -229,6 +248,33 @@
       "description": "Thinking you are obligated to behave or believe a certain way.",
       "example": "I shouldn't feel so angry about this. I should have gotten to work on this project a long time ago.",
       "reframeExample": "Any feeling I am having is a valid feeling. Chastizing myself about how much progress I have made isn't helpful. I am where I am and there are reasons for that. I can only control where I go from here"
-    }
-  ]
+    } 
+  ],
+  "quotes": [
+      {"id": 1,
+        "quote":"Leap, and the net will appear.",
+        "author": "Julia Cameron"
+      }, 
+      {"id": 2,
+        "quote": "But do you know how old I will be by the time I learn to really play the piano /act /paint /write a decent play? Yes the same age you will be if you don't.",
+        "author": "Julia Cameron"
+      }, 
+      {"id": 3,
+        "quote":"Serious art is born from serious play.",
+        "author": "Julia Cameron"
+      }, 
+      {"id": 4,
+        "quote":"Progress, not perfection, is what we should be asking of ourselves.",
+        "author": "Julia Cameron"
+      }, 
+      {"id": 4,
+        "quote":"No matter what your age or your life path, whether making art is your career or your hobby or your dream, it is not too late or too egotistical or too selfish or too silly to work on your creativity.",
+        "author": "Julia Cameron"
+      },
+      {"id": 4,
+        "quote":"In filling the well, think magic. Think delight. Think fun. Do not think duty. Do not do what you should do—spiritual sit-ups like reading a dull but recommended critical text. Do what intrigues you, explore what interests you; think mystery, not mastery.",
+        "author": "Julia Cameron"
+      }
+     
+]
 }
