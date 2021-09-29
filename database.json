@@ -39,6 +39,11 @@
       "email": "waylon@ismycat.com",
       "name": "Waylon B. Hayes",
       "id": 8
+    },
+    {
+      "email": "erin@truman.com",
+      "name": "Erin T",
+      "id": 9
     }
   ],
   "morningPages": [
@@ -93,7 +98,7 @@
       "morningPage": ",nd,nd,as",
       "blurt": "damndm,asndbvwdjb",
       "reframe": "",
-      "date": "09/23/2021",
+      "date": "09/26/2021",
       "id": 10
     },
     {
@@ -102,7 +107,7 @@
       "morningPage": "meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow ",
       "blurt": "MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW ",
       "reframe": "CAT-astrphizing. get it?",
-      "date": "09/23/2021",
+      "date": "09/28/2021",
       "id": 11
     },
     {
@@ -111,8 +116,87 @@
       "morningPage": "meow",
       "blurt": "meow",
       "reframe": "meow",
-      "date": "09/24/2021",
+      "date": "09/27/2021",
       "id": 12
+    },
+    {
+      "title": "meow",
+      "userId": 8,
+      "morningPage": "meow",
+      "blurt": "meow",
+      "reframe": "woof",
+      "date": "09/28/2021",
+      "id": 13
+    },
+    {
+      "title": "",
+      "userId": 9,
+      "morningPage": "",
+      "date": "09/29/2021",
+      "id": 15
+    },
+    {
+      "title": "hhgfhgfhbcbgcg",
+      "userId": 8,
+      "morningPage": "nvnvnvn",
+      "blurt": "fhgfhff",
+      "reframe": "cngfhfhgf",
+      "date": "09/29/2021",
+      "id": 16
+    },
+    {
+      "title": "hello",
+      "userId": 8,
+      "morningPage": ":)",
+      "blurt": ":)",
+      "reframe": ":D",
+      "date": "09/29/2021",
+      "id": 17
+    },
+    {
+      "title": "bdmjbwjd",
+      "userId": 8,
+      "morningPage": ",dsnc,sdncq",
+      "blurt": "sm,cs,mcsw",
+      "reframe": "cnmdsbcmndsbc",
+      "date": "09/29/2021",
+      "id": 18
+    },
+    {
+      "title": "fqefqe",
+      "userId": 8,
+      "morningPage": "fqefq",
+      "blurt": "fqefeq",
+      "reframe": "fqe",
+      "date": "09/29/2021",
+      "id": 19
+    },
+    {
+      "title": "vevev",
+      "userId": 8,
+      "morningPage": "vevefv",
+      "blurt": "vfevfev",
+      "reframe": "vfevfe",
+      "date": "09/29/2021",
+      "id": 20
+    },
+    {
+      "title": "4",
+      "userId": 8,
+      "morningPage": "4",
+      "blurt": "4",
+      "reframe": "4",
+      "date": "09/29/2021",
+      "id": 21
+    },
+    {
+      "title": "efef",
+      "userId": 8,
+      "morningPage": "fewf",
+      "blurt": "fefw",
+      "reframe": "fewe",
+      "date": "09/29/2021",
+      "id": 22
     }
   ],
   "thoughtDistortions": [
@@ -150,6 +234,41 @@
       "distortionDetailId": 1,
       "morningPageId": 12,
       "id": 8
+    },
+    {
+      "distortionDetailId": 1,
+      "morningPageId": 13,
+      "id": 9
+    },
+    {
+      "distortionDetailId": 1,
+      "morningPageId": 16,
+      "id": 11
+    },
+    {
+      "distortionDetailId": 2,
+      "morningPageId": 17,
+      "id": 12
+    },
+    {
+      "distortionDetailId": 11,
+      "morningPageId": 18,
+      "id": 13
+    },
+    {
+      "distortionDetailId": 7,
+      "morningPageId": 19,
+      "id": 14
+    },
+    {
+      "distortionDetailId": 2,
+      "morningPageId": 20,
+      "id": 15
+    },
+    {
+      "distortionDetailId": 1,
+      "morningPageId": 21,
+      "id": 16
     }
   ],
   "distortionDetails": [
@@ -248,33 +367,177 @@
       "description": "Thinking you are obligated to behave or believe a certain way.",
       "example": "I shouldn't feel so angry about this. I should have gotten to work on this project a long time ago.",
       "reframeExample": "Any feeling I am having is a valid feeling. Chastizing myself about how much progress I have made isn't helpful. I am where I am and there are reasons for that. I can only control where I go from here"
-    } 
+    }
   ],
   "quotes": [
-      {"id": 1,
-        "quote":"Leap, and the net will appear.",
-        "author": "Julia Cameron"
-      }, 
-      {"id": 2,
-        "quote": "But do you know how old I will be by the time I learn to really play the piano /act /paint /write a decent play? Yes the same age you will be if you don't.",
-        "author": "Julia Cameron"
-      }, 
-      {"id": 3,
-        "quote":"Serious art is born from serious play.",
-        "author": "Julia Cameron"
-      }, 
-      {"id": 4,
-        "quote":"Progress, not perfection, is what we should be asking of ourselves.",
-        "author": "Julia Cameron"
-      }, 
-      {"id": 4,
-        "quote":"No matter what your age or your life path, whether making art is your career or your hobby or your dream, it is not too late or too egotistical or too selfish or too silly to work on your creativity.",
-        "author": "Julia Cameron"
-      },
-      {"id": 4,
-        "quote":"In filling the well, think magic. Think delight. Think fun. Do not think duty. Do not do what you should do—spiritual sit-ups like reading a dull but recommended critical text. Do what intrigues you, explore what interests you; think mystery, not mastery.",
-        "author": "Julia Cameron"
-      }
-     
-]
+    {
+      "id": 1,
+      "quote": "Leap, and the net will appear.",
+      "author": "Julia Cameron"
+    },
+    {
+      "id": 2,
+      "quote": "But do you know how old I will be by the time I learn to really play the piano /act /paint /write a decent play? Yes the same age you will be if you don't.",
+      "author": "Julia Cameron"
+    },
+    {
+      "id": 3,
+      "quote": "Serious art is born from serious play.",
+      "author": "Julia Cameron"
+    },
+    {
+      "id": 4,
+      "quote": "Progress, not perfection, is what we should be asking of ourselves.",
+      "author": "Julia Cameron"
+    },
+    {
+      "id": 5,
+      "quote": "No matter what your age or your life path, whether making art is your career or your hobby or your dream, it is not too late or too egotistical or too selfish or too silly to work on your creativity.",
+      "author": "Julia Cameron"
+    },
+    {
+      "id": 6,
+      "quote": "In filling the well, think magic. Think delight. Think fun. Do not think duty. Do not do what you should do—spiritual sit-ups like reading a dull but recommended critical text. Do what intrigues you, explore what interests you; think mystery, not mastery.",
+      "author": "Julia Cameron"
+    }
+  ],
+  "artistDates": [
+    {
+      "id": 1,
+      "title": "Basement East",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "title": "Centennial Arts Center",
+      "categoryId": 3
+    },
+    {
+      "id": 3,
+      "title": "The Eastroom",
+      "categoryId": 1
+    },
+    {
+      "id": 4,
+      "title": "Shelby Bottoms Nature Center",
+      "categoryId": 2
+    },
+    {
+      "id": 5,
+      "title": "Percy Warner",
+      "categoryId": 2
+    },
+    {
+      "id": 6,
+      "title": "Percy Warner",
+      "categoryId": 2
+    },
+    {
+      "id": 7,
+      "title": "Foggy Bottom Canoe and kayak Rental",
+      "categoryId": 2
+    },
+    {
+      "id": 8,
+      "title": "Radnor State Park",
+      "categoryId": 2
+    },
+    {
+      "id": 9,
+      "title": "Exit/In",
+      "categoryId": 1
+    },
+    {
+      "id": 10,
+      "title": "Ryman Auditorium",
+      "categoryId": 1
+    },
+    {
+      "id": 11,
+      "title": "Mercy Lounge",
+      "categoryId": 1
+    },
+    {
+      "id": 12,
+      "title": "Ascend Ampitheater",
+      "categoryId": 1
+    },
+    {
+      "id": 13,
+      "title": "The Belcourt",
+      "categoryId": 5
+    },
+    {
+      "id": 14,
+      "title": "TenX9",
+      "categoryId": 5
+    },
+    {
+      "id": 15,
+      "title": "The Porch",
+      "categoryId": 3
+    },
+    {
+      "id": 16,
+      "title": "First Saturday Art Crawl",
+      "categoryId": 5
+    },
+    {
+      "id": 17,
+      "title": "Turnip Green Creative Reuse",
+      "categoryId": 6
+    },
+    {
+      "id": 18,
+      "title": "East Side Music Supply",
+      "categoryId": 6
+    },
+    {
+      "id": 19,
+      "title": "Jerry's Artarama",
+      "categoryId": 6
+    },
+    {
+      "id": 20,
+      "title": "Country Music Hall of Fame",
+      "categoryId": 4
+    },
+    {
+      "id": 21,
+      "title": "National Museum of African American Music",
+      "categoryId": 6
+    },
+    {
+      "id": 22,
+      "title": "The Basement",
+      "categoryId": 1
+    }
+
+  ],
+  "dateCategories": [
+    {
+      "id": 1,
+      "title": "Live Performances"
+    },
+    {
+      "id": 2,
+      "title": "Outdoors"
+    },
+    {
+      "id": 3,
+      "title": "Classes"
+    },
+    {
+      "id": 4,
+      "title": "Museums"
+    },
+    {
+      "id": 5,
+      "title": "Other Entertainment"
+    },
+    {
+      "id": 6,
+      "title": "Arts Stores"
+    }
+  ]
 }
