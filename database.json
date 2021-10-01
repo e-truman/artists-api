@@ -44,6 +44,11 @@
       "email": "erin@truman.com",
       "name": "Erin T",
       "id": 9
+    },
+    {
+      "email": "coach@steve.com",
+      "name": "STEVE",
+      "id": 10
     }
   ],
   "morningPages": [
@@ -57,7 +62,7 @@
       "date": "9/11/21"
     },
     {
-      "title": "Good day to you ",
+      "title": "Good day to you cdsvsv",
       "userId": 7,
       "morningPage": "How are you, old sport?",
       "blurt": "vsdbfdsbfmbmnsdcndscbnsd cbn snc    vvvvvvvvvsdbfdsbfmbmnsdcndscbnsd cbn snc    vvvvvvvvvsdbfdsbfmbmnsdcndscbnsd cbn snc    vvvvvvvvvsdbfdsbfmbmnsdcndscbnsd cbn snc    vvvvvvvvvsdbfdsbfmbmnsdcndscbnsd cbn snc    vvvvvvvv",
@@ -107,7 +112,7 @@
       "morningPage": "meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow ",
       "blurt": "MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW MEOW ",
       "reframe": "CAT-astrphizing. get it?",
-      "date": "09/28/2021",
+      "date": "09/27/2021",
       "id": 11
     },
     {
@@ -118,15 +123,6 @@
       "reframe": "meow",
       "date": "09/27/2021",
       "id": 12
-    },
-    {
-      "title": "meow",
-      "userId": 8,
-      "morningPage": "meow",
-      "blurt": "meow",
-      "reframe": "woof",
-      "date": "09/28/2021",
-      "id": 13
     },
     {
       "title": "",
@@ -197,78 +193,378 @@
       "reframe": "fewe",
       "date": "09/29/2021",
       "id": 22
+    },
+    {
+      "title": "streak?",
+      "userId": 8,
+      "morningPage": "streak?",
+      "blurt": "streak?",
+      "reframe": "streak?",
+      "date": "09/30/2021",
+      "id": 23
+    },
+    {
+      "title": "meow",
+      "userId": 8,
+      "morningPage": "meow",
+      "blurt": "mwoe\n",
+      "reframe": "no",
+      "date": "09/30/2021",
+      "id": 24
+    },
+    {
+      "title": "meow",
+      "userId": 8,
+      "morningPage": "meow",
+      "blurt": "meow",
+      "reframe": "meow",
+      "date": "09/30/2021",
+      "id": 25
+    },
+    {
+      "title": "dfwf",
+      "userId": 8,
+      "morningPage": "fewfef",
+      "blurt": "fewfwe",
+      "reframe": "fefwe",
+      "date": "09/30/2021",
+      "id": 26
+    },
+    {
+      "title": "",
+      "userId": 8,
+      "morningPage": "",
+      "date": "10/01/2021",
+      "id": 27
+    },
+    {
+      "title": "meow",
+      "userId": 8,
+      "morningPage": "meow",
+      "blurt": "meow",
+      "reframe": "woem",
+      "date": "10/01/2021",
+      "id": 28
+    },
+    {
+      "title": "test",
+      "userId": 7,
+      "morningPage": "test",
+      "blurt": "test",
+      "reframe": "test",
+      "date": "10/01/2021",
+      "id": 29
+    },
+    {
+      "title": "test",
+      "userId": 7,
+      "morningPage": "test",
+      "blurt": "test",
+      "reframe": "",
+      "date": "10/01/2021",
+      "id": 30
+    },
+    {
+      "title": "vsdvs",
+      "userId": 7,
+      "morningPage": "vdsvd",
+      "blurt": "vdsvs",
+      "reframe": "vsvv",
+      "date": "10/01/2021",
+      "id": 33
+    },
+    {
+      "title": "cdcw",
+      "userId": 7,
+      "morningPage": "vdsvds",
+      "blurt": "vsdvsd",
+      "reframe": "vsvs",
+      "date": "10/01/2021",
+      "id": 34
+    },
+    {
+      "title": "am i done?",
+      "userId": 8,
+      "morningPage": "good",
+      "blurt": "I hope this works",
+      "reframe": "i think it's working",
+      "date": "10/01/2021",
+      "id": 35
+    },
+    {
+      "title": "SHARK ATTACK",
+      "userId": 10,
+      "morningPage": "SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK SHARK ATTACK ",
+      "blurt": "Sharks are endangered, maybe I shouldn't contribute to the zeitgeist of fear",
+      "reframe": "CARP ATTACK!",
+      "date": "10/01/2021",
+      "id": 36
+    },
+    {
+      "title": "SHARK ATTACK",
+      "userId": 10,
+      "morningPage": "SHARK ATTACK",
+      "blurt": "ATTACK THE SHARK?",
+      "reframe": "NO, SHARKS ARE IMPORTANT FOR THE ECOSYSTEM",
+      "date": "10/01/2021",
+      "id": 37
     }
   ],
   "thoughtDistortions": [
     {
-      "distortionDetailId": 7,
-      "morningPageId": 6,
+      "distortionDetailId": 1,
+      "morningPageId": 30,
+      "id": 1
+    },
+    {
+      "distortionDetailId": 2,
+      "morningPageId": 30,
       "id": 2
     },
     {
-      "distortionDetailId": 1,
-      "morningPageId": 8,
+      "distortionDetailId": 3,
+      "morningPageId": 30,
       "id": 3
     },
     {
-      "distortionDetailId": 2,
-      "morningPageId": 8,
+      "distortionDetailId": 4,
+      "morningPageId": 30,
       "id": 4
     },
     {
-      "distortionDetailId": 1,
-      "morningPageId": 9,
+      "distortionDetailId": 5,
+      "morningPageId": 30,
       "id": 5
     },
     {
-      "distortionDetailId": 2,
-      "morningPageId": 9,
+      "distortionDetailId": 8,
+      "morningPageId": 30,
       "id": 6
     },
     {
-      "distortionDetailId": 1,
-      "morningPageId": 11,
+      "distortionDetailId": 7,
+      "morningPageId": 30,
       "id": 7
     },
     {
-      "distortionDetailId": 1,
-      "morningPageId": 12,
+      "distortionDetailId": 9,
+      "morningPageId": 30,
       "id": 8
     },
     {
-      "distortionDetailId": 1,
-      "morningPageId": 13,
+      "distortionDetailId": 10,
+      "morningPageId": 30,
       "id": 9
     },
     {
-      "distortionDetailId": 1,
-      "morningPageId": 16,
+      "distortionDetailId": 11,
+      "morningPageId": 30,
+      "id": 10
+    },
+    {
+      "distortionDetailId": 12,
+      "morningPageId": 30,
       "id": 11
     },
     {
-      "distortionDetailId": 2,
-      "morningPageId": 17,
-      "id": 12
+      "distortionDetailId": 1,
+      "morningPageId": 33,
+      "id": 36
     },
     {
-      "distortionDetailId": 11,
-      "morningPageId": 18,
-      "id": 13
+      "distortionDetailId": 2,
+      "morningPageId": 33,
+      "id": 37
+    },
+    {
+      "distortionDetailId": 3,
+      "morningPageId": 33,
+      "id": 38
+    },
+    {
+      "distortionDetailId": 4,
+      "morningPageId": 33,
+      "id": 39
+    },
+    {
+      "distortionDetailId": 5,
+      "morningPageId": 33,
+      "id": 40
+    },
+    {
+      "distortionDetailId": 8,
+      "morningPageId": 33,
+      "id": 41
+    },
+    {
+      "distortionDetailId": 9,
+      "morningPageId": 33,
+      "id": 42
     },
     {
       "distortionDetailId": 7,
-      "morningPageId": 19,
-      "id": 14
+      "morningPageId": 33,
+      "id": 43
     },
     {
-      "distortionDetailId": 2,
-      "morningPageId": 20,
-      "id": 15
+      "distortionDetailId": 10,
+      "morningPageId": 33,
+      "id": 44
+    },
+    {
+      "distortionDetailId": 11,
+      "morningPageId": 33,
+      "id": 45
+    },
+    {
+      "distortionDetailId": 12,
+      "morningPageId": 33,
+      "id": 46
+    },
+    {
+      "distortionDetailId": 13,
+      "morningPageId": 33,
+      "id": 47
     },
     {
       "distortionDetailId": 1,
-      "morningPageId": 21,
-      "id": 16
+      "morningPageId": 34,
+      "id": 48
+    },
+    {
+      "distortionDetailId": 2,
+      "morningPageId": 34,
+      "id": 49
+    },
+    {
+      "distortionDetailId": 3,
+      "morningPageId": 34,
+      "id": 50
+    },
+    {
+      "distortionDetailId": 4,
+      "morningPageId": 34,
+      "id": 51
+    },
+    {
+      "distortionDetailId": 7,
+      "morningPageId": 34,
+      "id": 52
+    },
+    {
+      "distortionDetailId": 5,
+      "morningPageId": 34,
+      "id": 53
+    },
+    {
+      "distortionDetailId": 8,
+      "morningPageId": 34,
+      "id": 54
+    },
+    {
+      "distortionDetailId": 9,
+      "morningPageId": 34,
+      "id": 55
+    },
+    {
+      "distortionDetailId": 10,
+      "morningPageId": 34,
+      "id": 56
+    },
+    {
+      "distortionDetailId": 11,
+      "morningPageId": 34,
+      "id": 57
+    },
+    {
+      "distortionDetailId": 12,
+      "morningPageId": 34,
+      "id": 58
+    },
+    {
+      "distortionDetailId": 13,
+      "morningPageId": 34,
+      "id": 59
+    },
+    {
+      "distortionDetailId": 1,
+      "morningPageId": 35,
+      "id": 60
+    },
+    {
+      "distortionDetailId": 7,
+      "morningPageId": 35,
+      "id": 61
+    },
+    {
+      "distortionDetailId": 2,
+      "morningPageId": 35,
+      "id": 62
+    },
+    {
+      "distortionDetailId": 3,
+      "morningPageId": 35,
+      "id": 63
+    },
+    {
+      "distortionDetailId": 8,
+      "morningPageId": 35,
+      "id": 64
+    },
+    {
+      "distortionDetailId": 9,
+      "morningPageId": 35,
+      "id": 65
+    },
+    {
+      "distortionDetailId": 4,
+      "morningPageId": 35,
+      "id": 66
+    },
+    {
+      "distortionDetailId": 10,
+      "morningPageId": 35,
+      "id": 67
+    },
+    {
+      "distortionDetailId": 5,
+      "morningPageId": 35,
+      "id": 68
+    },
+    {
+      "distortionDetailId": 11,
+      "morningPageId": 35,
+      "id": 69
+    },
+    {
+      "distortionDetailId": 12,
+      "morningPageId": 35,
+      "id": 70
+    },
+    {
+      "distortionDetailId": 13,
+      "morningPageId": 35,
+      "id": 71
+    },
+    {
+      "distortionDetailId": 4,
+      "morningPageId": 36,
+      "id": 72
+    },
+    {
+      "distortionDetailId": 13,
+      "morningPageId": 36,
+      "id": 73
+    },
+    {
+      "distortionDetailId": 1,
+      "morningPageId": 37,
+      "id": 74
+    },
+    {
+      "distortionDetailId": 1,
+      "morningPageId": 36,
+      "id": 76
     }
   ],
   "distortionDetails": [
@@ -404,115 +700,142 @@
   "artistDates": [
     {
       "id": 1,
-      "title": "Basement East",
-      "categoryId": 1
+      "title": "The Frist",
+      "link": "https://fristartmuseum.org/",
+      "categoryId": 4
     },
     {
       "id": 2,
       "title": "Centennial Arts Center",
+      "link": "https://www.nashville.gov/departments/parks/cultural-arts/visual-arts/studio-cac",
       "categoryId": 3
     },
     {
       "id": 3,
       "title": "The Eastroom",
+      "link": "https://www.theeastroomnashville.com/",
       "categoryId": 1
     },
     {
       "id": 4,
-      "title": "Shelby Bottoms Nature Center",
+      "title": "Shelby Park",
+      "link": "https://www.nashville.gov/departments/parks/parks/shelby-park",
       "categoryId": 2
     },
     {
       "id": 5,
-      "title": "Percy Warner",
+      "title": "Cummins Falls",
+      "link": "https://tnstateparks.com/parks/cummins-falls?gclid=CjwKCAjwndCKBhAkEiwAgSDKQUMh5W3a7ggktveTowtxfkIHpQsdbjaZ36ZQsbDqRdathMaYCYES5RoCfIkQAvD_BwE",
       "categoryId": 2
     },
     {
       "id": 6,
       "title": "Percy Warner",
+      "link": "https://www.nashville.gov/departments/parks/parks/warner-parks",
       "categoryId": 2
     },
     {
       "id": 7,
       "title": "Foggy Bottom Canoe and kayak Rental",
+      "link": "https://www.tnvacation.com/local/kingston-springs-foggy-bottom-canoe-rentals",
       "categoryId": 2
     },
     {
       "id": 8,
       "title": "Radnor State Park",
+      "link": "https://tnstateparks.com/parks/radnor-lake",
       "categoryId": 2
     },
     {
       "id": 9,
       "title": "Exit/In",
+      "link": "https://exitin.com/calendar/",
       "categoryId": 1
     },
     {
       "id": 10,
       "title": "Ryman Auditorium",
+      "link": "https://www.boxofficeticketsales.com/ryman-auditorium?utm_source=google&utm_medium=cpc&utm_campaign=85767767&utm_term=ryman%20auditorium&gclid=CjwKCAjwndCKBhAkEiwAgSDKQc3b15CO5A-1mXzBb1RKrSNNI0d6kbWvtlXKyGDsOvPO-GXxd1KHlRoC9OoQAvD_BwE",
       "categoryId": 1
     },
     {
       "id": 11,
       "title": "Mercy Lounge",
+      "link": "https://www.mercylounge.com/calendar/",
       "categoryId": 1
     },
     {
       "id": 12,
       "title": "Ascend Ampitheater",
+      "link": "https://www.livenation.com/venue/KovZpZAEet7A/ascend-amphitheater-events",
       "categoryId": 1
     },
     {
       "id": 13,
       "title": "The Belcourt",
+      "link": "https://secure.belcourt.org/websales/pages/list.aspx?epguid=2107b10b-0626-48e7-8d54-814c1f613098&",
       "categoryId": 5
     },
     {
       "id": 14,
       "title": "TenX9",
+      "link": "https://tenx9nashville.com/",
       "categoryId": 5
     },
     {
       "id": 15,
       "title": "The Porch",
+      "link": "https://www.porchtn.org/",
       "categoryId": 3
     },
     {
       "id": 16,
       "title": "First Saturday Art Crawl",
+      "link": "https://nashvilledowntown.com/events/first-saturday-art-crawl",
       "categoryId": 5
     },
     {
       "id": 17,
       "title": "Turnip Green Creative Reuse",
+      "link": "https://www.turnipgreencreativereuse.org/",
       "categoryId": 6
     },
     {
       "id": 18,
       "title": "East Side Music Supply",
+      "link": "https://eastsidemusicsupply.com/",
       "categoryId": 6
     },
     {
       "id": 19,
       "title": "Jerry's Artarama",
+      "link": "https://www.jerrysartarama.com/?gclid=CjwKCAjwndCKBhAkEiwAgSDKQZr3SWGOIxSavc6sUiRLmBKR7hwvW8bJhyMPx4dB8XvQn32VdI8HohoCXdYQAvD_BwE",
       "categoryId": 6
     },
     {
       "id": 20,
       "title": "Country Music Hall of Fame",
+      "link": "",
       "categoryId": 4
     },
     {
       "id": 21,
       "title": "National Museum of African American Music",
+      "link": "https://countrymusichalloffame.org/",
       "categoryId": 6
     },
     {
       "id": 22,
-      "title": "The Basement",
+      "title": "The Basement & Basement East",
+      "link": "https://www.thebasementnashville.com/the-basement-calendar/",
+      "categoryId": 1
+    },
+    {
+      "id": 23,
+      "title": "Tennessee Performing Arts Center",
+      "link": "https://www.vividseats.com/venues/tn-performing-arts-center-andrew-jackson-hall-tickets.html?vkid=32472817&utm_source=google&utm_medium=cpc&utm_campaign=13429439493&utm_term=tennessee%20performing%20arts%20center&adgroup=124027808795&target=kwd-301576451903&device=c&gclid=CjwKCAjwndCKBhAkEiwAgSDKQYw8OCXzUlINJTtygBAR12-IVvKS9-BqAyZPnxcpmKhxZaUnouknHBoCd4sQAvD_BwE",
       "categoryId": 1
     }
-
   ],
   "dateCategories": [
     {
