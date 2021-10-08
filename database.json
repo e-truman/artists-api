@@ -3,34 +3,49 @@
     {
       "email": "erin@truman.com",
       "name": "Erin T",
-      "id": 9
+      "id": 7
     }
   ],
   "morningPages": [
     {
-      "title": "Hello World!",
+      "title": "3",
       "userId": 7,
-      "morningPage": "I hope you like my app.",
-      "blurt": "Thanks for watching my video!",
-      "reframe": "Have a great day :)",
-      "date": "10/07/2021",
-      "id": 1
+      "morningPage": "3",
+      "blurt": "3",
+      "reframe": "3",
+      "date": "10/08/2021",
+      "id": 2
+    },
+    {
+      "title": "greg",
+      "userId": 7,
+      "morningPage": "grger",
+      "blurt": "grge",
+      "reframe": "rgeg",
+      "date": "10/08/2021",
+      "id": 3
     }
   ],
-  "thoughtDistortions": [],
+  "thoughtDistortions": [
+    {
+      "distortionDetailId": 2,
+      "morningPageId": 2,
+      "id": 45
+    }
+  ],
   "distortionDetails": [
     {
       "id": 1,
       "name": "Catastrophizing",
       "subtitle": "What if the worst happens?",
       "description": "You to expect the worst-case-scenario in any situation. You often find yourself thinking, 'What if…?'. You may feel like something is unbearable or impossible, even if it isn't.",
-      "example": "Example: You recieve some constructive cristicism, or correcting feedback at work. A person who catastrophizes may think, 'I am going to get fired, and then I am not going to be able to pay my bills, and I'll lose my house, etc...', In reality,  It is unlikely the worst-case scenario will happen.",
+      "example": "Example: You receive some constructive cristicism, or correcting feedback at work. A person who catastrophizes may think, 'I am going to get fired, and then I am not going to be able to pay my bills, and I'll lose my house, etc...', In reality,  It is unlikely the worst-case scenario will happen.",
       "reframeExample": "Reframe: A mistake, or a judgement from another person is not a reflection on who I am as a person. Most likely, everything is going to be ok."
     },
     {
       "id": 2,
       "name": "All-Or-Nothing Thinking",
-      "subtitle": "",
+      "subtitle": "Nothing ever goes right.",
       "description": "A person with all-or-nothing thinking may believe that they are either perfect or a complete failure. Words like always or never are indicators of all-or-nothing thinking.",
       "example": "Example: I haven't 'made it' yet, so I must be a complete failure.",
       "reframeExample": "Reframe: What evidence do I have that this is completely true? Can I find the nuance, or gray area? Can I focus on progress rather than perfection?."
@@ -38,7 +53,7 @@
     {
       "id": 3,
       "name": "Emotional Reasoning",
-      "subtitle": "",
+      "subtitle": "I feel this way, so it must be real.",
       "description": "A person with emotional reasoning thinks their thoughts reflect reality.",
       "example": "Example: Writing feels hard, so I must be bad at it.",
       "reframeExample": "Reframe: Feelings aren't facts. What evidence do I have that this is completely true? Even though I feel like I am a bad writer, I have gotten positive feedback in the past, and I don't always feel this way. My thought must not be completely true?."
@@ -46,7 +61,7 @@
     {
       "id": 4,
       "name": "Magnification of the Negative",
-      "subtitle": "",
+      "subtitle": "I ruined everything.",
       "description": "A person who magnifies the negative will put greater emphasis in possible failures, weaknesses, or threats.",
       "example": "Example: You play a musical performance. You get positive feedback, but also made a few mistakes. You continue to feel embarassed by the mistakes rather than believe the good reviews people gave you.",
       "reframeExample": "Reframe: I only made a few mistakes, and I still got positive reviews. It's possible others didn't even notice the mistakes."
@@ -54,7 +69,7 @@
     {
       "id": 5,
       "name": "Minimization of the Positive",
-      "subtitle": "",
+      "subtitle": "They didn't really mean that",
       "description": "Putting less emphasis on possible success or opportunity.",
       "example": "Example: You write a short story. You ask a friend for feedback, and they say some nice things. You think,'They are probably just being nice'",
       "reframeExample": "Reframe: I appreciate they took the time to read and compliment my work."
@@ -62,7 +77,7 @@
     {
       "id": 7,
       "name": "Fortune Telling",
-      "subtitle": "",
+      "subtitle": "I know it won't work out.",
       "description": "Predicting a negative outcome before the event happens, and with insufficient evidence.",
       "example": "Even if I finish this project, It won't turn out how I want it to and no one will like it.",
       "reframeExample": "I won't know how things will turn out until I try. Even if nobody likes my work, I will become a better aritst with practice. You have to make bad art before you can make the good art. I am committed to showing up, and I will try to let go of outcomes."
@@ -70,39 +85,39 @@
     {
       "id": 8,
       "name": "Mind Reading",
-      "subtitle": "",
+      "subtitle": "They didn't say hello so must hate me",
       "description": "Assuming you know what another person is thinking.",
-      "example": "Example: My seemed upset today. He must be angry with me.",
-      "reframeExample": "Reframe: I can never be sure what is going on in someone else's head. Maybe my boss is stressed about something that has nothing to do with me. If it keeps happening, I can ask him for clarification."
+      "example": "Example: My seemed upset today. They must be angry with me.",
+      "reframeExample": "Reframe: I can never be sure what is going on in someone else's head. Maybe my boss is stressed about something that has nothing to do with me. If it keeps happening, I can ask them for clarification."
     },
     {
       "id": 9,
       "name": "Personalization",
       "subtitle": "It's all my fault.",
-      "description": "A person who engages in personalization feels overly responsible for negative outcomes and attributes them to percieved incompetence. They blame themselves entirely.",
+      "description": "A person who engages in personalization feels overly responsible for negative outcomes and attributes them to perceived incompetence. They blame themselves entirely.",
       "example": "Example: ",
-      "reframeExample": "Reframe: "
+      "reframeExample": "Reframe: I am not the only contributing factor to my failures, or successes."
     },
     {
       "id": 10,
       "name": "Other-Blaming",
-      "subtitle": "",
+      "subtitle": "It's all their fault.",
       "description": "Blaming others holds others responsible for outcomes they may not have had control of, or provides ways for people to overlook their contributions to the issue.",
       "example": "Example: ",
-      "reframeExample": ""
+      "reframeExample": "Reframe: I can only grow if I am brave enough to look at my part. What someone else does is out of my control and won't serve me"
     },
     {
       "id": 11,
       "name": "Overgeneralizing",
-      "subtitle": "",
+      "subtitle": "Nothing good happened today.",
       "description": "Making a broad conclusion based on one event. A person who overgeneralizes may assume the same result will always occur in the future.",
       "example": "Example: I wasn't a finalist in the competition, so I never will be.",
-      "reframeExample": "Reframe: I'll improve with practice, and will be more likely to succeed the more I try."
+      "reframeExample": "Reframe: I'll improve with practice, and will be more likely to succeed the more I try. I don't know what will happen next time"
     },
     {
       "id": 12,
       "name": "Labeling",
-      "subtitle": "",
+      "subtitle": "I'm lazy.",
       "description": "Reducing yourself or another to a single description based on a single event or behavior.",
       "example": "Example: I am a failure for not publishing a book by now. She is a jerk for honking at me in traffic.",
       "reframeExample": "There are a lot of ways to define success, and in a lot of ways I am successful. I have honked in traffic before too. Maybe she was stressed or upset about something else."
@@ -110,7 +125,7 @@
     {
       "id": 13,
       "name": "Should/Must Statements",
-      "subtitle": "",
+      "subtitle": "I should have done.",
       "description": "Thinking you are obligated to behave or believe a certain way.",
       "example": "I shouldn't feel so angry about this. I should have gotten to work on this project a long time ago.",
       "reframeExample": "Any feeling I am having is a valid feeling. Chastizing myself about how much progress I have made isn't helpful. I am where I am and there are reasons for that. I can only control where I go from here"
