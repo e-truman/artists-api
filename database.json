@@ -4,6 +4,11 @@
       "email": "erin@truman.com",
       "name": "Erin T",
       "id": 7
+    },
+    {
+      "email": "waylon@cat.com",
+      "name": "Waylon",
+      "id": 8
     }
   ],
   "morningPages": [
@@ -281,14 +286,14 @@
     {
       "id": 20,
       "title": "Country Music Hall of Fame",
-      "link": "",
+      "link": "https://countrymusichalloffame.org/",
       "categoryId": 4
     },
     {
       "id": 21,
       "title": "National Museum of African American Music",
       "link": "https://countrymusichalloffame.org/",
-      "categoryId": 6
+      "categoryId": 4
     },
     {
       "id": 22,
